@@ -8,6 +8,3 @@
 # Q&A
 
 # Audit scope
-
-
-
